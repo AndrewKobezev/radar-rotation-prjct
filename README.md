@@ -16,7 +16,7 @@
 
 Мотор выбран по минимальной скорости вращения:
 
-[12GA-N20/DC 3V/15rpm](https://aliexpress.ru/item/4001195504462.html?sku_id=12000050915181628&spm=a2g2w.productlist.search_results.4.6b513142jFHrQK)
+[12GA-N20/DC 3V/15rpm](https://aliexpress.ru/item/4001195504462.html?sku_id=12000050915181626&spm=a2g2w.productlist.search_results.4.6b513142jFHrQK)
 
 ## Вращение оси мотора с заданной угловой скоростью
 
@@ -77,7 +77,7 @@
 
 |Компонент|Кол-во, шт|Название + ссылка|Примерная стоимость, руб|
 |-----|-----|-----|-----|
-|Мотор|	1	|[12GA-N20/DC 3V/15rpm](https://aliexpress.ru/item/4001195504462.html?sku_id=12000050915181628&spm=a2g2w.productlist.search_results.4.6b513142jFHrQK)	|230|
+|Мотор|	1	|[12GA-N20/DC 3V/15rpm](https://aliexpress.ru/item/4001195504462.html?sku_id=12000050915181626&spm=a2g2w.productlist.search_results.4.6b513142jFHrQK)	|230|
 |Ардуино|	1	|[Arduino Nano V3.0](https://aliexpress.ru/item/1005006773519913.html?spm=a2g2w.cart.cart_split.2.da564aa6lc5Gta&sku_id=12000038256018928)	|166|
 |Провода сигнальные	|15	|[Dupont](https://aliexpress.ru/item/1005001621943322.html?spm=a2g2w.cart.cart_split.4.da564aa6lc5Gta&sku_id=12000016846728384)	|184|
 |Провод силовой	|1|	[12 AWG](https://aliexpress.ru/item/1005006106389362.html?spm=a2g2w.cart.cart_split.2.48334aa6tyhPe2&sku_id=12000035836360979)	|220|
