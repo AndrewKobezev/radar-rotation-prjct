@@ -81,7 +81,7 @@
 |Ардуино|	1	|[Arduino Nano V3.0](https://aliexpress.ru/item/1005006773519913.html?spm=a2g2w.cart.cart_split.2.da564aa6lc5Gta&sku_id=12000038256018928)	|166|
 |Провода сигнальные	|15	|[Dupont](https://aliexpress.ru/item/1005001621943322.html?spm=a2g2w.cart.cart_split.4.da564aa6lc5Gta&sku_id=12000016846728384)	|184|
 |Провод силовой	|1|	[12 AWG](https://aliexpress.ru/item/1005006106389362.html?spm=a2g2w.cart.cart_split.2.48334aa6tyhPe2&sku_id=12000035836360979)	|220|
-|Кондёр керамика 0.1 мкФ|	2|	[100nF 50V](https://aliexpress.ru/item/1_91432155.html?spm=a2g2w.cart.cart_split.10.da564aa6lc5Gta&sku_id=5000000174034026)	|267,22|
+|Кондёр керамика 0.1 мкФ|	3|	[100nF 50V](https://aliexpress.ru/item/1_91432155.html?spm=a2g2w.cart.cart_split.10.da564aa6lc5Gta&sku_id=5000000174034026)	|267,22|
 |Кондёр электролит 470 мкФ|	1	|[470uF](https://aliexpress.ru/item/1005002075527957.html?spm=a2g2w.cart.cart_split.12.da564aa6lc5Gta&sku_id=12000018654903097)	|156|
 |Переключатель|	1	|[KCD11-101](https://aliexpress.ru/item/1005004124751042.html?spm=a2g2w.cart.cart_split.14.da564aa6lc5Gta&sku_id=12000028117593060)	|38|
 |Бокс для батарей	|1|	[вот такой бокс](https://aliexpress.ru/item/1005002752229071.html?spm=a2g2w.cart.cart_split.10.3dea4aa67HUFB6&sku_id=12000021965571394)	|59|
