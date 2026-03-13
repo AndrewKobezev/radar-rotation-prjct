@@ -44,7 +44,7 @@
 
 ## Электрическая схема
 
-<img src="https://alexgyver.ru/wp-content/uploads/2021/07/tb6612.jpg" alt="Изображение не доступно" width="800" height="500">
+<img src="files/schema.png" alt="Изображение не доступно" width="800" height="500">
 
 
 ## Питание
