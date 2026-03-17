@@ -79,6 +79,7 @@ switch
 
 <img src="files/schema.png" alt="Изображение не доступно" width="800" height="500">
 
+[Руководство к сборке схемы](https://github.com/AndrewKobezev/radar-rotation-prjct/blob/main/assembly_guide.md)  
 
 ## Покупные изделия
 На момент 17:47 13.03.2026
@@ -104,3 +105,6 @@ switch
 
 ИТОГО: **3407,38** руб  
 
+## Прошивка
+
+Проект с прошивкой исполнялся в среде VSCode+PlatformIO, исходный код лежит [тут](https://github.com/AndrewKobezev/radar-rotation-prjct/blob/main/code/const_rotation_arduino/src/main.cpp).
