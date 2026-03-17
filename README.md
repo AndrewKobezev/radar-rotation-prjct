@@ -77,7 +77,7 @@ switch
 
 ## Электрическая схема
 
-<img src="files/schema.png" alt="Изображение не доступно" width="800" height="500">
+<img src="files/schema+button.png" alt="Изображение не доступно" width="800" height="500">
 
 [Руководство к сборке схемы](https://github.com/AndrewKobezev/radar-rotation-prjct/blob/main/assembly_guide.md)  
 
